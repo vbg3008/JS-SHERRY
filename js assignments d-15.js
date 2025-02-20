@@ -126,6 +126,8 @@
 //         break
 //     case "green":
 //         console.log("Go")
+        // default:
+        //     console.log("nothing")
 // }
 
 // assignment 10 Multiplication table
@@ -364,6 +366,8 @@
 //     break;
 //     case 0:console.log("zero")
 //     break;
+        // default:
+        //     console.log("nothing")
 
 
 // }
